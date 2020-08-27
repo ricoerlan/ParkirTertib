@@ -1,0 +1,12 @@
+c:\users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\bin\Debug\ParkirTertib.exe.config
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\bin\Debug\ParkirTertib.exe
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\bin\Debug\ParkirTertib.pdb
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\bin\Debug\ParkirTertib.xml
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.vbprojResolveAssemblyReference.cache
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.Form1.resources
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.FormParkirMasuk.resources
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.Resources.resources
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.vbproj.GenerateResource.Cache
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.exe
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.xml
+C:\Users\namiut\documents\visual studio 2015\Projects\ParkirTertib\ParkirTertib\obj\Debug\ParkirTertib.pdb
